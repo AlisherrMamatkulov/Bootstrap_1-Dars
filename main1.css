@@ -1,0 +1,40 @@
+.text{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    background-color: mediumpurple;
+    color: white;
+    padding: 5px;
+
+}
+.row{
+    background-color: mediumpurple;
+    border-bottom: black;
+}
+.fase{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    background-color: mediumpurple;
+    color: white;
+    padding: 5px;
+}
+.text1{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    background-color: mediumpurple;
+    color: white;
+    padding: 5px;
+}
+.text2{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    background-color: mediumpurple;
+    color: white;
+    padding: 5px;
+}
+.text3{
+    text-align: center;
+    border: 2px solid whitesmoke;
+    background-color: mediumpurple;
+    color: white;
+    padding: 5px;
+}
